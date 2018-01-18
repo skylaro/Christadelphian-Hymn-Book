@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Spud\Documents\Programming\Android\Apps\HymnBook\app\build\intermediates\exploded-aar\com.getpebble\pebblekit\3.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd72bf60a6e56573eecb0e6abf419fac2b1fc1e6">
+        <dex dex="C:\Users\Spud\Documents\Programming\Android\Apps\HymnBook\app\build\intermediates\pre-dexed\debug\classes-5548b06a6c945f3df52a639e57865669cf903a64.jar" />
+    </item>
+
+</items>
